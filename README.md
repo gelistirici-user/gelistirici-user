@@ -7,8 +7,8 @@
 <br/>
 <br/>
 
-[<img width="22" src="https://unpkg.com/simple-icons@v5/icons/telegram.svg" align="left" />][telegram]
 [<img width="22" src="https://unpkg.com/simple-icons@v5/icons/youtube.svg" align="left" />][youtube]
+[<img width="22" src="https://unpkg.com/simple-icons@v5/icons/telegram.svg" align="left" />][telegram]
 [<img width="22" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg" align="left" />][instagram]
 [<img width="22" src="https://unpkg.com/simple-icons@v5/icons/discord.svg" align="left" />][discord]
 
