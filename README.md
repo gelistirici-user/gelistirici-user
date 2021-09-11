@@ -21,15 +21,16 @@
 <br/>
 <br/>
 
+<details>
+<summary>Most used languages</summary>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gelistirici-user)](https://github.com/anuraghazra/github-readme-stats)
+</details>
 
 <br>
 
-<details>
-<summary>Individual stats</summary>
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gelistirici-user)](https://github.com/anuraghazra/github-readme-stats)
-</details>
+
 
 [youtube]: https://www.youtube.com/channel/UCVep_UDG25uxvO7yqzCP2tw
 [telegram]: https://t.me/gelistirici_user
